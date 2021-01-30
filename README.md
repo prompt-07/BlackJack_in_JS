@@ -5,6 +5,11 @@
 
 ## Preview
 
+| name  | email |
+| --------------|
+|       |       |
+|       |       |
+
 
 <br>
 
@@ -13,13 +18,13 @@
 ## About BlackJack
 Many people think that casino games like Blackjack work on luck, and you cannot plan or strategics an outcome. Though these games are indeed based on probability and chances, one can get their desired outcome if they play by the rules. One must know the Blackjack game rules to turn their luck in their favor.
 <br>
-...
 
+```
 What is Blackjack?
 
-Blackjack is a well-known casino game with just one rule: get the sum of your cards as close to 21 without going beyond it. The game is played against the dealer. According to the experts, with the presence of mind and exact knowledge of the Blackjack game rules, anyone can ace the game [For More..](https://bicyclecards.com/article/the-beginning-of-blackjack/ "More info on BlackJack")
-
-...
+Blackjack is a well-known casino game with just one rule: get the sum of your cards as close to 21 without going beyond it. The game is played against the dealer. According to the experts, with the presence of mind and exact knowledge of the Blackjack game rules, anyone can ace the game 
+```
+[Refere here for more..](https://bicyclecards.com/article/the-beginning-of-blackjack/ "More info on BlackJack")
 
 <br>
 
@@ -35,4 +40,5 @@ What are the Blackjack Rules?
 6) An ace can be 1 or 10, and face cards have a value of 10.
 7) The dealer can only stand when they have reached 17 or more.
 
-> Note:- In a realworld Blackjack game, if the dealer crosses the mark of 21, every player wins. If the dealer has cards under 21, then the cards of the players will be compared. But this version has been built for single player please feel free to clone give it a try and if possible contribute.
+
+> **Note:-** In a realworld Blackjack game, if the dealer crosses the mark of 21, every player wins. If the dealer has cards under 21, then the cards of the players will be compared. But this version has been built for single player please feel free to clone give it a try and if possible contribute.
