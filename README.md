@@ -5,11 +5,9 @@
 
 ## Preview
 
-| name  | email |
-| --------------|
-|       |       |
-|       |       |
+![img1](https://raw.githubusercontent.com/prompt-07/BlackJack_in_JS/master/BlackJack/blackJacksc1.png "Draw Preview")
 
+![img2](https://raw.githubusercontent.com/prompt-07/BlackJack_in_JS/master/BlackJack/blackJacksc2.png "Win Preview")
 
 <br>
 
@@ -19,11 +17,9 @@
 Many people think that casino games like Blackjack work on luck, and you cannot plan or strategics an outcome. Though these games are indeed based on probability and chances, one can get their desired outcome if they play by the rules. One must know the Blackjack game rules to turn their luck in their favor.
 <br>
 
-```
 What is Blackjack?
 
 Blackjack is a well-known casino game with just one rule: get the sum of your cards as close to 21 without going beyond it. The game is played against the dealer. According to the experts, with the presence of mind and exact knowledge of the Blackjack game rules, anyone can ace the game 
-```
 [Refere here for more..](https://bicyclecards.com/article/the-beginning-of-blackjack/ "More info on BlackJack")
 
 <br>
